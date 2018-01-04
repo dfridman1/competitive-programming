@@ -1,5 +1,4 @@
 # http://www.spoj.com/problems/TWENDS/
-
 # TAGS: dynamic-programming
 
 

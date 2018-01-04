@@ -1,3 +1,6 @@
+// http://www.spoj.com/problems/ADAGAME/
+// TAGS: dynamic-programming
+
 #include <iostream>
 #include <sstream>
 #include <iomanip>
