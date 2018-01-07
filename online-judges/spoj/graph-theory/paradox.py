@@ -43,7 +43,7 @@ def get_data():
         graph = []
         for _ in xrange(n):
             v, state = raw_input().split()
-            graph.append((int(v)-1, True if state == 'true' else False))
+            graph.append((int(v)-1, state == 'true'))
         yield n, graph
 
 
