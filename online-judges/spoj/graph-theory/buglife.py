@@ -1,5 +1,5 @@
 # http://www.spoj.com/problems/BUGLIFE/
-# graph-theory, graph, dfs
+# TAGS: graph-theory, graph, dfs
 
 
 from collections import defaultdict
