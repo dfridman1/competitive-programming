@@ -1,5 +1,5 @@
 # http://www.spoj.com/problems/INVCNT/
-# graph-theory, number-theory, shortest-path, sorting #bitmasks
+# TAGS: graph-theory, number-theory, shortest-path, sorting #bitmasks
 
 
 def count_inversions(xs):
